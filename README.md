@@ -187,4 +187,5 @@ The heavy computation (parsing 280 MB of GeoJSON, building the graph) happens on
 
 ## License
 
-This project is part of the Apparent Energy research initiative at IIT (ISM) Dhanbad.
+This project is part of the Apparent Energy research initiative.
+
