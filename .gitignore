@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env
+
+# Large data files (GeoJSON)
+*.geojson
+
+# Large HTML output files
+sim_output/
+transmission_map.html
+grid_monitoring_demo.html
+
+# Node / Dashboard
+dashboard/node_modules/
+dashboard/dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

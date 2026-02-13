@@ -1,0 +1,6 @@
+requests
+pandapower
+pandas
+plotly
+numpy
+networkx
